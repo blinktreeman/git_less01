@@ -19,3 +19,7 @@
 указание электронной почты
 
 >git config --global user.email *mail@mail.com*
+
+указание редактора сообщений git
+
+>git config --global core.editor nano
