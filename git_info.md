@@ -67,3 +67,6 @@
 > git checkout master
 
 ![no picture](res\batman.gif)
+
+## Помошь по работе с git
+
