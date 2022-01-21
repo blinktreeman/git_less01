@@ -92,17 +92,29 @@
 
 ## Команды для работы с удаленными репозиторияим
 
-> git clone
+* получение копии существующего git репозитория (клонирование):
+
+> git clone <*ссылка*>
+
+где *ссылка* это url существующего репозитория
 
 > git pull
 
 > git push
 
+* просмотр списка настроенных удаленных репозиториев
+
+> git remote
+
+* добавление удаленного репозитория
+
+> git remote add <*имя*> <*ссылка*>
+
 > git remote add origin https://github.com/blinktreeman/homework_pull_request.git
 
 > git branch -M eugene_el_added
 
- > git push -u origin eugene_el_added
+> git push -u origin eugene_el_added
 
 ## Помошь по работе с git
 
