@@ -90,6 +90,20 @@
 
 * для разрешения конфликтов при слиянии веток можно воспользоваться инструментами VB Code, при этом оставить исходный вариант, принять изменения или объединить варианты. Также можно удалить лишние строки, откорректировать данные, затем выполнить add, commit для исправленного.
 
+## Команды для работы с удаленными репозиторияим
+
+> git clone
+
+> git pull
+
+> git push
+
+> git remote add origin https://github.com/blinktreeman/homework_pull_request.git
+
+> git branch -M eugene_el_added
+
+ > git push -u origin eugene_el_added
+
 ## Помошь по работе с git
 
 * Получение помощи:
